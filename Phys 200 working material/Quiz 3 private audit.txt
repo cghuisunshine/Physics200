@@ -1,0 +1,42 @@
+PHYS 200 Long Quiz 3 | Private review | November 3, 2026
+
+PrairieLearn closed attempt 15933237. The overview shows 16.67/20. All deductions are on Q7 (0/1), Q12 (0.25/1), Q13 (3.42/4) and Q14 (0/1). The displayed points add up.
+
+Q7 | Request a marking review
+https://us.prairielearn.com/pl/course_instance/216202/instance_question/768241635/
+Prompt: “If we could magically change Planck’s constant (h) to be half its actual value, which of the pictures would represent an electromagnetic wave with the same intensity and wavelength as the original beam?” Circle size represents energy per photon.
+Original diagram: eight equal circles. Option (c) has sixteen smaller circles over the same length. Option (e), the official key, has four larger circles.
+At fixed wavelength and fixed c, frequency is fixed. E = hc/λ halves. Intensity is energy arriving per area per time, so the photon flux must double. This gives (c). The published explanation changes wavelength despite the fixed wavelength in the question.
+Submission 1 saved (c), ungraded, at 11:30:08 PDT on Oct 30. Submission 2 graded (c) at 12:31:54 PDT, 0%. Subsequent graded submissions were (b) and (d). The first graded choice is the physics-supported answer.
+
+Unsent clarification
+Could you review the key and my first graded submission for Long Quiz 3, Q7? The question fixes wavelength and intensity while halving h. From E = hc/λ, each photon then carries half the energy, so twice as many photons must pass per unit area per second. That matches (c), which PrairieLearn recorded as my first graded answer and marked incorrect. The posted key gives (e), and the explanation changes the wavelength. Could you check the key and the credit for that submission?
+
+Other deductions
+Q12. The stated mass gives a rest energy of 28 GeV. The photon energy at the atom’s Compton wavelength is also 28 GeV, hence the total is 56 GeV. The last answer was correct on submission 4. The reduced award is consistent with an attempt penalty.
+Q13 | Request a marking review
+First graded submission (#7, 12:28:58 PDT): the original input was m0+100. PrairieLearn parsed it as m₀+100 and awarded 0% for that field. All six other fields received 100%, including m₀ = 150 MeV. The key gives 250 MeV and the published derivation gives E_i = m₀ + ΔE with ΔE = 100 MeV. These agree after substitution. Part 1 labels the field in MeV and the key gives a number. The later m0+20 entry does not describe the first graded attempt.
+Unsent clarification: On Q13 my first graded submission (#7) gave m0+100 for the initial energy and 150 MeV for m0 in the same submission. The posted derivation gives E_i = m0 + ΔE, so my expression evaluates to the keyed 250 MeV. Could you review whether the equivalent expression can receive credit?
+Q14 | Request a marking review
+Submission 1 saved exactly (c) and (d), ungraded, at 12:08:22 PDT. Submission 2, the first graded attempt at 12:30:50 PDT, selected exactly (c) and (d). This matches the published key. The expanded response shows 100%, but the submission header shows 0% and the question received 0/1. The two choices give binding energies of 26 and 27 MeV, the only values below the 28 MeV minimum. Submission 3 added (f); submission 4 added (e) instead. Both later selections received 0%. The history establishes the discrepancy but does not explain its cause.
+Unsent clarification: Could you check Q14 submission 2? My first graded selection was exactly (c) and (d), matching the posted key. The expanded answer shows 100%, while its submission header shows 0% and the overview awards 0/1.
+If Q7, Q13, and Q14 all receive full credit, the revised total would be 19.25/20 (96.25%).
+
+Future practice. Retain the bidirectional Compton terminology check. Use fresh examples distinguishing energy before and after emission and checking each selection against a bound. Exclude Q7 from evidence of a missed concept.
+
+Full quiz verification | Questions checked against the student's version
+Q1. Selected 0.998c. With pc=15 GeV and mc²=0.9383 GeV, v/c=pc/sqrt((pc)²+(mc²)²)=0.99805.
+Q2. Selected more than double. Halving λ doubles the incident photon energy, so the new Kmax equals 2Kmax(old)+φ.
+Q3. Selected 0.999c. Using 20 GeV and 0.9383 GeV gives 0.99890c.
+Q4. Selected more red photons and the same nonzero recoil velocity. At equal output energies, red photons have less energy per photon. Total emitted momentum magnitude is E/c for each beam. Equal-mass lasers have equal recoil speeds (equal velocities assumes parallel beams).
+Q5. Selected a bound mass below 2me and energy released. Binding lowers the system's rest energy.
+Q6. Selected (e). At fixed intensity, halving λ doubles each photon's energy and halves the flux, the larger, more widely spaced dots described by (e). Q7 reverses the required energy change.
+Q7. First graded (c); later (b), then (d). See review above.
+Q8. Selected unchanged probe mass. Internal conversion of chemical energy to heat leaves the isolated system's rest energy unchanged.
+Q9. Selected 1.656 × 10^-13 m. With initial photon energy hc/(4 mm) ≈ 0.000310 eV, energy conservation gives final photon energy approximately (8−0.511) MeV = 7.489 MeV and this wavelength. The proposed collision itself is impossible: the initial electron momentum is sqrt(8²−0.511²) ≈ 7.984 MeV/c. The incident photon contributes only about 3.10 × 10^-10 MeV/c, so even antiparallel incidence cannot reduce total momentum to the 7.489 MeV/c carried by the final photon when the final electron is at rest. Full credit awarded.
+Q10. Submitted 2.3057 eV, metal A, smaller work function for the faster emitted electrons, and 5.3 eV for the other metal. 1240/182.2−4.5 ≈ 2.3057 eV. The difference fixes φB−φA=0.8 eV, so the submitted pair (4.5,5.3) eV works. The stated data also permit (3.7,4.5) eV, so assigning the given work function to A is not uniquely determined. Full credit awarded.
+Q11. Selected the intensity-independent emission threshold and the frequency shift in X-ray scattering. Both fit the intended photoelectric and Compton evidence.
+Q12. Saved (d) 42 GeV. Three graded submissions, in order: (d) 42, (a) 84, then (b) 56 GeV. Since λC=h/(mc), the photon energy equals mc². Total energy is 2mc²=56 GeV. The last graded answer was the first correct one. The overview awarded 0.25/1.
+Q13. The field itself showed the placeholder “symbolic expression.” Part 1 gave the energy unit MeV without explicitly demanding a numerical answer. The first graded response matches the published physics (see above).
+Q14. Applying the stated inequality, only (c) and (d) fail it. The first graded selection exactly matched both. See submission-level discrepancy above.
+Q15. Selected twice the photon energy and half the photon count for A. At double frequency and equal intensity, E=hf and photon flux=I/(hf) give that result over equal areas and times.

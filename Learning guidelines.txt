@@ -1,0 +1,59 @@
+PHYS 200 — Learning guidelines
+
+Use for learning new material. Also follow Practice guidelines.txt for sources,
+question preparation, feedback, and logging.
+
+SEQUENCE
+
+- Read scope.txt and Practice log.txt. Follow the user's requested scope;
+  otherwise use the current reading scope and resume from recorded progress.
+- Follow the course's stated order, emphasis, and skips. Within that order,
+  use the assigned source's progression of definitions, notation, and ideas.
+- Teach through problems. Give only the information needed to attempt the next
+  question, usually one or two concepts. Define new terms and notation plainly
+  and check their meaning in use; correct calculation alone is not enough.
+- Give one question, wait for the attempt, then respond. Do not require an
+  explanation before a problem the user can already attempt. Expand explanations
+  when needed, without front-loading a whole section or its worked solutions.
+- After a correct answer, confirm briefly and give the next queued problem in
+  the same reply, including only necessary new teaching. Do not wait for the
+  user to ask to continue or add redundant confirmation questions.
+- Keep preliminary checks to the minimum needed to attempt actual practice.
+  Explain necessary ideas together, then move to a substantive sourced problem;
+  do not break each idea into elementary or yes/no questions that merely repeat
+  the explanation. Check understanding through the problem, adding a focused
+  follow-up only when an actual gap prevents progress.
+
+TERMINOLOGY IN REVIEW
+
+- Include a dedicated terminology part in future reviews, using the names and
+  definitions in the in-scope course materials.
+- Check both directions: given a term, explain its meaning and relevant
+  expression; given an expression or description, identify the term.
+- Check physical meaning and distinguish similarly named quantities. For
+  example, Compton wavelength is h/(mc), while the Compton wavelength shift
+  is Delta lambda = [h/(mc)](1-cos(theta)).
+- Do not infer terminology recall from correct calculations. Ask one question
+  at a time and record gaps for later uncued retry in Practice log.txt.
+
+PROGRESSION
+
+- Follow the existing learn–practice sequence, then use mixed practice within
+  the chosen scope once that material has been learned.
+- Build toward solving substantial sourced problems. For relativity, these
+  include demanding Helliwell exercises alongside official practice problems
+  and past exam problems. Stay within scope and select by the demands of the
+  actual question rather than treating all book problems as introductory.
+- Use introductory book problems and generated or adapted problems as brief bridges to
+  introduce an idea or address a specific gap. Label generated and adapted
+  items Generated and verify them before presenting.
+- Each step should introduce an idea, resolve a gap, or combine learned ideas.
+  Move on promptly when introductory questions have served their purpose;
+  do not require exhausting them or prolong easier drills.
+- Keep difficulty and source-role distinctions internal. Do not announce that
+  a question is introductory, substantial, a bridge, a target, or a step up
+  in difficulty; retain only the usual minimal source-family label.
+- Similar problems are welcome as spaced practice. Separate them in time,
+  preferably across sessions. Retries can be the same question, but with numbers slightly altered. 
+- After an error, follow the feedback rule in Practice guidelines.txt and allow
+  a retry before advancing, unless the user asks to skip or move on.

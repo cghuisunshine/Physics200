@@ -1,0 +1,78 @@
+PHYS 200 — Reading Scope
+Last checked: September 6, 2026
+
+If needed, reasonably infer unpublished scope from available Canvas materials, label it "inferred scope" in the relevant section below, and revise it when explicit course instructions become available.
+
+PART I: RELATIVITY — PUBLISHED WEEKS 1–2
+
+Text: Helliwell, Special Relativity. These readings are mostly recommended.
+
+Course-focus clarification from the user (September 15, 2026):
+Sections 1.3, 1.4, 3.2, 5.3 are outside of the main focus of the course.
+
+Week 1:
+- §§1.1–1.2.
+
+Week 2, in teaching order:
+- Chapter 2 introduction: no absolute reference frame.
+- Intro
+- §2.2: Michelson–Morley experiment, concept only; full treatment unnecessary.
+  The linked video is sufficient: https://www.youtube.com/watch?v=7qJoRNseyLQ
+- §3.1: the two postulates. Skip §3.2.
+- Chapter 5: length changes; §§5.1–5.2 important. Skip §5.3.
+- Chapter 4: time dilation; no narrower section range specified.
+
+PART II: QUANTUM — OVERALL READING MAP
+
+Main sources: Quantum Notes and selected OpenStax readings.
+This map comes from the notes currently posted on Canvas (W1 2023, Version 2).
+Quantum weekly assignments are not yet published; later course instructions
+control the assigned sections, emphasis and timing.
+
+Below, “Notes” means PHYS200__Notes_on_Quantum-4.pdf; “OpenStax” means
+University Physics Volume 3 unless another book or volume is named.
+
+1. Electromagnetic light: Notes §1.2; OpenStax Volume 2, Chapter 16 (review).
+2. Light as a particle: Notes §§2.2–2.6; OpenStax §§3.1–3.2, 6.2–6.3.
+   Photon detection: College Physics §31.2, only the photomultiplier paragraph
+   and Figure 31.10. OpenStax §6.1 is further reading.
+3. Polarization: Notes §3.2; OpenStax §1.7.
+4. Quantum description of electrons: Notes §§4.2–4.3; OpenStax §§6.5–6.6.
+5. Eigenstates and wavepackets: Notes §§5.2–5.6; OpenStax §6.5.
+   OpenStax §7.1 is additional reading.
+6. Uncertainty: Notes §6.2; OpenStax §7.2.
+7. Schrödinger equation: Notes §5.6.2, then §§7.2–7.4; OpenStax §7.4.
+   OpenStax §7.3 is strongly recommended before or after class.
+8. Bound states and atomic spectra: Notes §§8.2–8.4; OpenStax §§7.4, 6.4, 8.1.
+   Emphasis: discrete energies in §7.4, including Eq. 7.41; checking proposed
+   Schrödinger solutions. OpenStax §7.5 is an additional example.
+9. Tunnelling: Notes §9.1; OpenStax §7.6. Notes §§9.2–9.3 are optional.
+
+Supplementary: Scherrer's Complex Numbers chapter, Readings from Knight,
+potential-well material and PhET simulations. Notes' “Extra info” boxes are
+nonessential extensions. Additional reading is not automatically assigned.
+The module links alone do not assign entire OpenStax chapters.
+
+SOURCES
+
+Weeks 1–2:
+https://canvas.ubc.ca/courses/193748/pages/pre-reading-material-for-week-2
+Quantum Notes (local: Additional material/PHYS200__Notes_on_Quantum-4.pdf):
+https://canvas.ubc.ca/courses/193748/modules/items/9685600
+Course modules:
+https://canvas.ubc.ca/courses/193748/modules
+
+QUIZ 3 — OFFICIAL INFORMATION PROVIDED BY USER (2026-10-24)
+
+- Relativistic momentum, energy, and collisions.
+- Photoelectric effect.
+- Compton scattering.
+- Blackbody radiation (confirmed in Week 08-1.pdf, slide 2, checked October 29).
+- Photon and wave representations of light, including intensity and frequency.
+- Diffraction is included. Week 08-1.pdf explicitly marks the end of Long Quiz 3
+  material at the transition to Probability Density on printed slide 37 (PDF
+  page 34). Material through printed slide 36 (PDF page 33) precedes that marker;
+  mathematical probability-density treatment follows it. Verified October 29.
+- There may be one or two Doppler-shift questions, without rederiving the formula.
+
+User requests mixed preparation within this scope, one question at a time.

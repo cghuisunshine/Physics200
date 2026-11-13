@@ -1,0 +1,72 @@
+Lecture material organization — October 15, 2026
+
+Original Canvas filenames mapped to current locations. PDF contents are unchanged.
+
+P200W26_tutorial_2_sol.pdf
+  Lecture material/Tutorials/Week 02 - Tutorial - solutions.pdf
+
+P200W26_tutorial_3_sol.pdf
+  Lecture material/Tutorials/Week 03 - Tutorial - solutions.pdf
+
+P200W26_tutorial_4.pdf
+  Lecture material/Tutorials/Week 04 - Tutorial - worksheet.pdf
+
+P200W26_tutorial_4_sol.pdf
+  Lecture material/Tutorials/Week 04 - Tutorial - solutions.pdf
+
+P200W26_tutorial_5_sol.pdf
+  Lecture material/Tutorials/Week 05 - Tutorial - solutions.pdf
+
+P200W26_tutorial_6_sol.pdf
+  Lecture material/Tutorials/Week 06 - Tutorial - solutions.pdf
+
+P200_Week1.pdf
+  Lecture material/Lectures/Week 01 - Draft slides.pdf
+
+P200_Week1_annotated-2.pdf
+  Lecture material/Lectures/Week 01.pdf
+
+P200_Week2-3.pdf
+  Lecture material/Lectures/Week 02 - Draft slides.pdf
+
+P200_Week2_Thursday_annotated.pdf
+  Lecture material/Lectures/Week 02-2.pdf
+
+P200_Week2_Tuesday_annotated.pdf
+  Lecture material/Lectures/Week 02-1.pdf
+
+P200_Week3-2.pdf
+  Lecture material/Lectures/Week 03 - Draft slides.pdf
+
+P200_Week3_Thursday_annotated.pdf
+  Lecture material/Lectures/Week 03-2.pdf
+
+P200_Week3_Tuesday_annotated.pdf
+  Lecture material/Lectures/Week 03-1.pdf
+
+P200_Week4_Tuesday_annotated.pdf
+  Lecture material/Lectures/Week 04-1.pdf
+
+P200_Week5_Thursday_annotated.pdf
+  Lecture material/Lectures/Week 05-2.pdf
+
+P200_Week5_Tuesday_annotated.pdf
+  Lecture material/Lectures/Week 05-1.pdf
+
+P200_Week6_Thursday_annotated.pdf
+  Lecture material/Lectures/Week 06-2.pdf
+
+P200_Week6_Tuesday_annotated.pdf
+  Lecture material/Lectures/Week 06-1.pdf
+
+
+Added October 28, 2026:
+
+P200_Week8_Tuesday_annotated.pdf
+  Lecture material/Lectures/Week 08-1.pdf
+  Canvas file: https://canvas.ubc.ca/courses/193748/files/49244070
+  Week 8 Tuesday lecture: October 27, 2026.
+
+Canvas Week 7 lectures page states: "Thursday: Class cancelled".
+  https://canvas.ubc.ca/courses/193748/pages/week-7-lectures
+  Week 07-2 is therefore not a missing download.

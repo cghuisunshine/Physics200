@@ -1,0 +1,17 @@
+PHYS 200 Practice Set 4 -- compilation record, 2026-11-01
+Not an attempted-question log; no mastery claims.
+
+Scope: local scope.txt and Practice log.txt, latest entry 2026-11-01.
+Question labels visible in the set are deliberately limited to Course/Generated.
+
+1 Generated SET4-01: terminology, postulates, spacelike interval, system mass/binding, blackbody scaling.
+2 Course: Midterm I 2019, II.1(a-g), PDF pp. 3-4. Original physics/tasks; marks and exam commentary omitted.
+3 Course: Relativity practice problems, 'Bullet striking a toy car', printed p. 11; soln-21. Minor grammar correction only.
+4 Course: Quantum practice problems, 'UV vision', printed p. 12, original (a) and (c). Original (b), an external work-function-table lookup, omitted; labels retained.
+5 Course: Midterm II 2018, II.1(a-c), PDF p. 5.
+6 Course: Relativity practice problems, 'Ship propelled by a laser', printed pp. 10-11. Main question plus physical assumptions from Hint I; method suggestion Hint II and optional extension omitted.
+7 Course: Midterm II 2018, II.3, PDF p. 7.
+8 Generated SET4-08: electron wavelength part adapted from recorded PrairieLearn PLEC8.1 Q2 (4.5 eV); added path/phase, which-path, stationary-aperture and intensity/frequency parts.
+
+Six sourced questions; two generated questions. All original course diagrams needed for these selected items are absent or replaced by the originals' complete verbal geometry; no diagram-dependent items omitted from their questions.
+Prepared as plain LaTeX at user's request. No solutions included.
